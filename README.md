@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [APIRestJWT](https://github.com/Mikegdro/APIRestJWT)
 
-- 🌱 I’m currently learning **API's, WebSockets & React**
+- 🌱 I’m currently learning **API's, WebSockets & VueJS**
 
 - 🔭 I’m currently working on [SteamRedesign](https://github.com/Mikegdro/SteamRedesign)
 
