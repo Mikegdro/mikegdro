@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegdro&label=Profile%20views&color=0e75b6&style=flat" alt="mikegdro" /> </p>
 
-- 🔭 I’m currently working on [APIRestJWT](https://github.com/Mikegdro/APIRestJWT)
+- 🔭 I’m currently working on [Organizational App](https://github.com/ProyectoIntegradoOrganizationalApp/Front-End)
 
-- 🌱 I’m currently learning **VueJS, Tailwind, NodeJS**
+- 🌱 I’m currently learning **Angular, Spring, Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mikegdro](https://github.com/Mikegdro)
 
