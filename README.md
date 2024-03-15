@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Organizational App](https://github.com/ProyectoIntegradoOrganizationalApp/Front-End)
 
-- 🌱 I’m currently learning **Vue, .Net, Golang**
+- 🌱 I’m currently learning **Vue, Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mikegdro](https://github.com/Mikegdro)
 
