@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegdro&label=Profile%20views&color=0e75b6&style=flat" alt="mikegdro" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Front](https://github.com/Mikegdro/PortfolioFrontend) & [PortfolioBackend](https://github.com/Mikegdro/PortfolioBackend)
+- 🔭 I’m currently working on [Portfolio Frontend](https://github.com/Mikegdro/PortfolioFrontend) & [PortfolioBackend](https://github.com/Mikegdro/PortfolioBackend)
 
 - 🌱 I’m currently learning **Vue, Golang**
 
