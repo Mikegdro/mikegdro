@@ -1,5 +1,8 @@
+---
+[![](https://visitcount.itsvg.in/api?id=mikegdro&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/Mikegdro/PortfolioFrontend<br> & https://github.com/Mikegdro/PortfolioBackend<br><br>🌱 I’m currently learning VueJS & Golang
+🔭 I’m currently working on https://github.com/Mikegdro/PortfolioFrontend & https://github.com/Mikegdro/PortfolioBackend<br><br>🌱 I’m currently learning VueJS & Golang
 
 
 ## 🌐 Socials:
@@ -11,8 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mikegdro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikegdro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikegdro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mikegdro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
