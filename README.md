@@ -18,7 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <h4>Front-end</h4>
-   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   <h4>Back-end</h4>
   <h4>Devops</h4>
 </p>
